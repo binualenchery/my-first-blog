@@ -25,8 +25,7 @@ SECRET_KEY = '6a1ad#jenvzrpqx5!#!!yj%6@nh#9b@-nce#knf=osh8dk(v8y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['127.0.0.1', 'binualenchery.pythonanywhere.com']
 
 # Application definition
 
